@@ -3,7 +3,7 @@ JBShop travail pratique du cours programmation web
 
 ### l'utilisateur(le client) peut :
 
-### accéder a les  catégories de chaussures
+### accéder à les  catégories de chaussures
 
 <img width="960" alt="image" src="https://github.com/jewathe/JBShop/assets/89857594/25dc0caf-9349-493d-a5b5-4ca6f46b9abf">
 

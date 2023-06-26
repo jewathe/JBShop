@@ -28,3 +28,7 @@ JBShop travail pratique du cours programmation web
 ### faire les operations suivantes:
 <img width="959" alt="image" src="https://github.com/jewathe/JBShop/assets/89857594/14966767-0112-4bd7-abd1-116a5915ac6f">
 
+### ajouter une chaussure
+
+<img width="960" alt="image" src="https://github.com/jewathe/JBShop/assets/89857594/14ef14f2-56cc-45e6-8325-8dc84d16264c">
+

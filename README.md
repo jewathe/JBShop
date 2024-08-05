@@ -12,9 +12,6 @@ JBShop travail pratique du cours programmation web
 
 <img width="960" alt="image" src="https://github.com/jewathe/JBShop/assets/89857594/c714b62e-6d7a-4cc0-b746-990ec5970348">
 
-### voir  les détails d'une chaussure
-
-<img width="960" alt="image" src="https://github.com/jewathe/JBShop/assets/89857594/bc01d594-9a33-4c37-a65e-22a0549d8fac">
 
 ### ajouter dans le panier et acheter
 
